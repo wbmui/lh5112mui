@@ -1,12 +1,14 @@
-# lh5112mui
-### 让您的 Windws Vista 5112 变成简体中文、繁体中文或更多语言的版本！
-由于 GitHub 不支持放置太多文件，而 *.mui 文件有 1000 多个，因此不得不制作成压缩包。
+# Windows Vista 5112 Multilingual User Interface Pack
+### 为您的 Windws Longhorn 4074 添加简体中文、繁体中文及更多语言！
 #### 语言包使用 Windows 批处理文件安装，直接就能修改，故此无编译教程。
 
 #### 反馈
-粉丝群: https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ
+粉丝群 & 产品交流群: https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ  
 
-邮箱: markta111@outlook.com
+邮箱: 
+ WinBetaUser (团队队长): markta111@outlook.com  
+ Nicrozoft: haha666_666@outlook.com 、[备用]haha666_1@outlook.com  
+ AndyChung123: chunghuenpang@hotmail.com  
 
 WinBetaMUI 产品反馈: https://forms.office.com/r/YEzZmF2Lv9
 
