@@ -1,5 +1,5 @@
 # Windows Vista 5112 Multilingual User Interface Pack
-### 为您的 Windws Vista 5112 添加简体中文、繁体中文及更多语言！
+### 为您的 Windws Vista 5112 添加简体中文及繁体中文！
 #### 语言包使用 Windows 批处理文件安装，直接就能修改，故此无编译教程。
 
 #### 反馈
