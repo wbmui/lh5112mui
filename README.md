@@ -10,6 +10,4 @@
  Nicrozoft: haha666_666@outlook.com 、[备用]haha666_1@outlook.com  
  AndyChung123: chunghuenpang@hotmail.com  
 
-WinBetaMUI 产品反馈: https://forms.office.com/r/YEzZmF2Lv9
-
 感谢支持！
